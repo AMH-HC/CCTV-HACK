@@ -75,12 +75,12 @@ try:
                  "MD", "NI", "MT", "TT", "SA", "HR", "CY", "PK", "AE", "KZ",
                  "KW", "VE", "GE", "ME", "SV", "LU", "CW", "PR", "CR", "BY",
                  "AL", "LI", "BA", "PY", "PH", "FO", "GT", "NP", "PE", "UY",
-                 "-" , "AD", "AG", "AM", "AO", "AU", "AW", "AZ", "BB", 
-                 "BQ", "BS", "BW", "CG", "CI", "DZ", "FJ", "GA", "GG", "GL",
-                 "GP", "GU", "GY", "HN", "JE", "JM", "JO", "KE", "KH", "KN",
-                 "KY", "LA", "LB", "LK", "MA", "MG", "MK", "MN", "MO", "MQ",
-                 "MU", "NA", "NC", "NG", "QA", "RE", "SD", "SN", "SR", "ST",
-                 "SY", "TZ", "UG", "UZ", "VC","BJ","US", ]
+                 "AG", "AO", "AU", "AW", "AZ", "BB", "BQ", "BS", "BW", "CG", 
+                 "CI", "DZ", "FJ", "GA", "GG", "GL", "GP", "GU", "GY", "HN",
+                 "JE", "JM", "JO", "KE", "KH", "KN", "KY", "LA", "LB", "LK",
+                 "MA", "MG", "MK", "MN", "MO", "MQ", "MU", "NA", "NC", "NG",
+                 "QA", "RE", "SD", "SN", "SR", "ST", "SY", "TZ", "UG", "UZ",
+                 "VC","BJ","US", ]
     headers = {"User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0"}
 
     num = int(input("OPTIONS : "))
