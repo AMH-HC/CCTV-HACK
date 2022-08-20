@@ -13,13 +13,13 @@ print("""
 \033[1;31m\033[1;37m██║   ██║██╔════██║██║     ██║
 \033[1;31m\033[1;37m╚═╝   ╚═╝╚═╝      ╚═╝╚═╝     ╚═╝     
 \033[1;33m                          CCTV-HACK                                         
-\033[1;33m1) \033[1;32mMyanmar                              
+\033[1;33m1) \033[1;32mBurma                              
 \033[1;33m1) \033[1;32mUnited States
 """)
 
 try:
     print()
-    countries = ["MM", "US",]
+    countries = ["BM", "US",]
     headers = {"User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0"}
 
     num = int(input("OPTIONS : "))
